@@ -1,0 +1,6 @@
+{
+  "name": "Example Extension Token",
+  "symbol": "EXTMSPL",
+  "description": "Test how to create a token in new standard",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+}
